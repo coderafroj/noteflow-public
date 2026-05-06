@@ -1,0 +1,14 @@
+{
+  "id": "f746d085-21b4-461d-954a-d7d26cf63e77",
+  "title": "Vs code linux",
+  "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"textAlign\":null,\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"Install vscode in kali linux \"}]},{\"type\":\"heading\",\"attrs\":{\"textAlign\":null,\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Step-1\"}]},{\"type\":\"codeBlock\",\"attrs\":{\"language\":null},\"content\":[{\"type\":\"text\",\"text\":\"sudo apt update\\nsudo apt install wget gpg\\nwget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg\\nsudo install -o root -g root -m 644 microsoft.gpg /etc/apt/trusted.gpg.d/\"}]},{\"type\":\"heading\",\"attrs\":{\"textAlign\":null,\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Step-2\"}]},{\"type\":\"codeBlock\",\"attrs\":{\"language\":null},\"content\":[{\"type\":\"text\",\"text\":\"sudo sh -c 'echo \\\"deb [arch=amd64] https://packages.microsoft.com/repos/code stable main\\\" > /etc/apt/sources.list.d/vscode.list'\"}]},{\"type\":\"heading\",\"attrs\":{\"textAlign\":null,\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Step-3\"}]},{\"type\":\"codeBlock\",\"attrs\":{\"language\":null},\"content\":[{\"type\":\"text\",\"text\":\"sudo apt update\\nsudo apt install code\"}]},{\"type\":\"heading\",\"attrs\":{\"textAlign\":null,\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Step-4\"}]},{\"type\":\"codeBlock\",\"attrs\":{\"language\":null},\"content\":[{\"type\":\"text\",\"text\":\"code\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":null}}]}",
+  "contentText": "Install vscode in kali linux  Step-1 sudo apt update\nsudo apt install wget gpg\nwget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg\nsudo install -o root -g root -m 644 microsoft.gpg /etc/apt/trusted.gpg.d/ Step-2 sudo sh -c 'echo \"deb [arch=amd64] https://packages.microsoft.com/repos/code stable main\" > /etc/apt/sources.list.d/vscode.list' Step-3 sudo apt update\nsudo apt install code Step-4 code ",
+  "tags": [],
+  "author": {
+    "login": "coderafroj",
+    "name": "coderafroj"
+  },
+  "publishedAt": "2026-05-06T10:14:14.048Z",
+  "updatedAt": "2026-04-21T15:42:23.577Z",
+  "slug": "untitled-f746d0"
+}
