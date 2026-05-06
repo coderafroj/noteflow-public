@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f746d085-21b4-461d-954a-d7d26cf63e77",
+    "title": "Vs code linux",
+    "contentPreview": "Install vscode in kali linux  Step-1 sudo apt update\nsudo apt install wget gpg\nwget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg\nsudo install -o root -g root ",
+    "tags": [],
+    "slug": "untitled-f746d0",
+    "publishedAt": "2026-05-06T10:14:14.048Z",
+    "updatedAt": "2026-04-21T15:42:23.577Z",
+    "author": "coderafroj"
+  }
+]
