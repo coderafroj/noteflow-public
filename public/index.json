@@ -1,5 +1,15 @@
 [
   {
+    "id": "b5b537ae-0f89-485a-9122-87f19f04e98a",
+    "title": "Business management ",
+    "contentPreview": "Business (ÃÂ ÃÂ¤ÃÂµÃÂ ÃÂ¥ÃÂÃÂ ÃÂ¤ÃÂ¯ÃÂ ÃÂ¤ÃÂµÃÂ ÃÂ¤ÃÂ¸ÃÂ ÃÂ¤ÃÂ¾ÃÂ ÃÂ¤ÃÂ¯) : Jab hum regular basis par koi activity karte hain  profit  kamane ke liye, jisme kuch na kuch  risk  h",
+    "tags": [],
+    "slug": "untitled-b5b537",
+    "publishedAt": "2026-06-05T05:57:23.196Z",
+    "updatedAt": "2026-06-05T05:56:45.616Z",
+    "author": "coderafroj"
+  },
+  {
     "id": "f746d085-21b4-461d-954a-d7d26cf63e77",
     "title": "Vs code linux",
     "contentPreview": "Install vscode in kali linux  Step-1 sudo apt update\nsudo apt install wget gpg\nwget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg\nsudo install -o root -g root ",
