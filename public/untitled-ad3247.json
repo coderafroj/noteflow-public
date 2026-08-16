@@ -1,0 +1,14 @@
+{
+  "id": "ad3247c8-eeb8-4f04-a930-f160b35b0e48",
+  "title": "operating Note",
+  "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":null},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"textStyle\",\"attrs\":{\"fontFamily\":\"Google Sans, sans-serif\",\"color\":\"\"}}],\"text\":\"(Operating System या OS) \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"highlight\",\"attrs\":{\"color\":\"\"}}],\"text\":\"एक मुख्य सिस्टम सॉफ़्टवेयर है जो कंप्यूटर हार्डवेयर और उपयोगकर्ता (User) के बीच एक पुल (मध्यस्थ) का काम करता है\"},{\"type\":\"text\",\"text\":\"। इसके बिना कंप्यूटर केवल एक बेजान डिब्बा है। इसके प्रमुख उदाहरण विंडोज (Windows), एंड्रॉइड (Android) और लिनक्स (Linux) हैं।\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":null}}]}",
+  "contentText": "(Operating System या OS)  एक मुख्य सिस्टम सॉफ़्टवेयर है जो कंप्यूटर हार्डवेयर और उपयोगकर्ता (User) के बीच एक पुल (मध्यस्थ) का काम करता है । इसके बिना कंप्यूटर केवल एक बेजान डिब्बा है। इसके प्रमुख उदाहरण विंडोज (Windows), एंड्रॉइड (Android) और लिनक्स (Linux) हैं। ",
+  "tags": [],
+  "author": {
+    "login": "coderafroj",
+    "name": "coderafroj"
+  },
+  "publishedAt": "2026-08-16T16:55:43.485Z",
+  "updatedAt": "2026-08-16T16:55:41.222Z",
+  "slug": "untitled-ad3247"
+}
